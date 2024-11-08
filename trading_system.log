@@ -1,0 +1,163 @@
+2024-11-07 19:53:37,524 - root - ERROR - Error during system initialization: DataManager.start() missing 1 required positional argument: 'pairs'
+2024-11-07 19:53:37,524 - root - ERROR - System initialization failed
+2024-11-07 20:14:04,561 - root - ERROR - Error during system initialization: DataManager.start() missing 1 required positional argument: 'pairs'
+2024-11-07 20:14:04,562 - root - ERROR - System initialization failed
+2024-11-07 20:25:08,736 - KrakenWebSocket - INFO - Connected to Kraken WebSocket
+2024-11-07 20:25:08,737 - root - ERROR - Error during system initialization: 'MainWindow' object has no attribute '_exit_application'
+2024-11-07 20:25:08,738 - root - ERROR - System initialization failed
+2024-11-07 20:28:14,436 - KrakenWebSocket - INFO - Connected to Kraken WebSocket
+2024-11-07 20:28:14,437 - root - ERROR - Error during system initialization: 'MainWindow' object has no attribute '_load_module_dialog'
+2024-11-07 20:28:14,438 - root - ERROR - System initialization failed
+2024-11-07 20:34:18,688 - KrakenWebSocket - INFO - Connected to Kraken WebSocket
+2024-11-07 20:34:18,808 - Base Module - ERROR - Error initializing MarketDataDisplay: <built-in function pop_container_stack> returned a result with an exception set
+2024-11-07 20:34:18,808 - root - ERROR - Failed to initialize module: Market Data Display
+2024-11-07 20:34:18,808 - root - ERROR - System initialization failed
+2024-11-07 20:34:18,815 - KrakenWebSocket - ERROR - Error processing data: 1
+2024-11-07 20:34:18,815 - DataManager - ERROR - WebSocket error: 1
+2024-11-07 21:25:15,784 - root - INFO - Starting trading system
+2024-11-07 21:25:15,785 - root - INFO - DPG context created
+2024-11-07 21:25:15,785 - root - INFO - Viewport created
+2024-11-07 21:25:15,785 - root - INFO - DPG setup complete
+2024-11-07 21:25:15,786 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 21:25:15,786 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 21:25:15,787 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 21:59:52,292 - root - INFO - Starting trading system
+2024-11-07 21:59:52,292 - root - INFO - DPG context created
+2024-11-07 21:59:52,292 - root - INFO - Viewport created
+2024-11-07 21:59:52,292 - root - INFO - DPG setup complete
+2024-11-07 21:59:52,293 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 21:59:52,293 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 21:59:52,293 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:10:56,098 - root - INFO - Starting trading system
+2024-11-07 22:10:56,099 - root - INFO - DPG context created
+2024-11-07 22:10:56,099 - root - INFO - Viewport created
+2024-11-07 22:10:56,099 - root - INFO - DPG setup complete
+2024-11-07 22:10:56,100 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:10:56,100 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:10:56,101 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:09,948 - root - INFO - Starting trading system
+2024-11-07 22:27:09,949 - root - INFO - DPG context created
+2024-11-07 22:27:09,949 - root - INFO - Viewport created
+2024-11-07 22:27:09,949 - root - INFO - DPG setup complete
+2024-11-07 22:27:09,950 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:09,950 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:09,950 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:10,053 - root - INFO - Starting trading system
+2024-11-07 22:27:10,054 - root - INFO - DPG context created
+2024-11-07 22:27:10,054 - root - INFO - Viewport created
+2024-11-07 22:27:10,054 - root - INFO - DPG setup complete
+2024-11-07 22:27:10,055 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:10,055 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:10,055 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:12,161 - root - INFO - Starting trading system
+2024-11-07 22:27:12,162 - root - INFO - DPG context created
+2024-11-07 22:27:12,162 - root - INFO - Viewport created
+2024-11-07 22:27:12,163 - root - INFO - DPG setup complete
+2024-11-07 22:27:12,164 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:12,165 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:12,165 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:13,470 - root - INFO - Starting trading system
+2024-11-07 22:27:13,470 - root - INFO - DPG context created
+2024-11-07 22:27:13,470 - root - INFO - Viewport created
+2024-11-07 22:27:13,471 - root - INFO - DPG setup complete
+2024-11-07 22:27:13,472 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:13,472 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:13,473 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:13,608 - root - INFO - Starting trading system
+2024-11-07 22:27:13,609 - root - INFO - DPG context created
+2024-11-07 22:27:13,610 - root - INFO - Viewport created
+2024-11-07 22:27:13,610 - root - INFO - DPG setup complete
+2024-11-07 22:27:13,613 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:13,613 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:13,613 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:14,714 - root - INFO - Starting trading system
+2024-11-07 22:27:14,715 - root - INFO - DPG context created
+2024-11-07 22:27:14,715 - root - INFO - Viewport created
+2024-11-07 22:27:14,715 - root - INFO - DPG setup complete
+2024-11-07 22:27:14,717 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:14,717 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:14,717 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:15,892 - root - INFO - Starting trading system
+2024-11-07 22:27:15,892 - root - INFO - DPG context created
+2024-11-07 22:27:15,892 - root - INFO - Viewport created
+2024-11-07 22:27:15,893 - root - INFO - DPG setup complete
+2024-11-07 22:27:15,893 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:15,893 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:15,893 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:16,944 - root - INFO - Starting trading system
+2024-11-07 22:27:16,945 - root - INFO - DPG context created
+2024-11-07 22:27:16,945 - root - INFO - Viewport created
+2024-11-07 22:27:16,945 - root - INFO - DPG setup complete
+2024-11-07 22:27:16,946 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:16,947 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:16,947 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:18,007 - root - INFO - Starting trading system
+2024-11-07 22:27:18,008 - root - INFO - DPG context created
+2024-11-07 22:27:18,008 - root - INFO - Viewport created
+2024-11-07 22:27:18,008 - root - INFO - DPG setup complete
+2024-11-07 22:27:18,009 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:18,010 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:18,010 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:19,026 - root - INFO - Starting trading system
+2024-11-07 22:27:19,027 - root - INFO - DPG context created
+2024-11-07 22:27:19,027 - root - INFO - Viewport created
+2024-11-07 22:27:19,027 - root - INFO - DPG setup complete
+2024-11-07 22:27:19,028 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:19,028 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:19,029 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:20,006 - root - INFO - Starting trading system
+2024-11-07 22:27:20,006 - root - INFO - DPG context created
+2024-11-07 22:27:20,006 - root - INFO - Viewport created
+2024-11-07 22:27:20,007 - root - INFO - DPG setup complete
+2024-11-07 22:27:20,008 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:20,008 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:20,008 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:21,020 - root - INFO - Starting trading system
+2024-11-07 22:27:21,020 - root - INFO - DPG context created
+2024-11-07 22:27:21,020 - root - INFO - Viewport created
+2024-11-07 22:27:21,021 - root - INFO - DPG setup complete
+2024-11-07 22:27:21,022 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:21,022 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:21,022 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:22,069 - root - INFO - Starting trading system
+2024-11-07 22:27:22,069 - root - INFO - DPG context created
+2024-11-07 22:27:22,069 - root - INFO - Viewport created
+2024-11-07 22:27:22,070 - root - INFO - DPG setup complete
+2024-11-07 22:27:22,071 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:22,071 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:22,071 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:23,128 - root - INFO - Starting trading system
+2024-11-07 22:27:23,129 - root - INFO - DPG context created
+2024-11-07 22:27:23,129 - root - INFO - Viewport created
+2024-11-07 22:27:23,129 - root - INFO - DPG setup complete
+2024-11-07 22:27:23,130 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:23,130 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:23,130 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:27:24,158 - root - INFO - Starting trading system
+2024-11-07 22:27:24,158 - root - INFO - DPG context created
+2024-11-07 22:27:24,158 - root - INFO - Viewport created
+2024-11-07 22:27:24,159 - root - INFO - DPG setup complete
+2024-11-07 22:27:24,160 - EventSystem - DEBUG - Subscribed to event: PRICE_UPDATE
+2024-11-07 22:27:24,160 - EventSystem - DEBUG - Subscribed to event: BALANCE_UPDATE
+2024-11-07 22:27:24,160 - EventSystem - DEBUG - Subscribed to event: MODULE_ERROR
+2024-11-07 22:29:56,554 - root - ERROR - Error during system initialization: DataManager.start() missing 1 required positional argument: 'pairs'
+2024-11-07 22:29:56,555 - root - ERROR - System initialization failed
+2024-11-07 23:02:28,454 - KrakenWebSocket - INFO - Connected to Kraken WebSocket
+2024-11-07 23:02:28,580 - market_data_1 - ERROR - Error initializing MarketDataDisplay: <built-in function pop_container_stack> returned a result with an exception set
+2024-11-07 23:02:28,581 - root - ERROR - Failed to initialize module: Market Data Display
+2024-11-07 23:02:28,581 - root - ERROR - System initialization failed
+2024-11-07 23:02:28,588 - KrakenWebSocket - ERROR - Error processing data: 1
+2024-11-07 23:02:28,588 - DataManager - ERROR - WebSocket error: 1
+2024-11-07 23:02:57,504 - root - ERROR - Error during system initialization: DataManager.start() missing 1 required positional argument: 'pairs'
+2024-11-07 23:02:57,505 - root - ERROR - System initialization failed
+2024-11-07 23:20:47,122 - root - INFO - Starting system initialization...
+2024-11-07 23:20:47,122 - root - ERROR - Error during system initialization: DataManager.start() missing 1 required positional argument: 'pairs'
+2024-11-07 23:20:47,122 - root - ERROR - Error in main loop: name 'traceback' is not defined
+2024-11-07 23:23:03,292 - root - INFO - Starting system initialization...
+2024-11-07 23:23:03,293 - root - ERROR - Error during system initialization: DataManager.start() missing 1 required positional argument: 'pairs'
+Traceback (most recent call last):
+  File "c:\Users\Rus\swing\trading_framework\main.py", line 57, in initialize_system
+    await data_manager.start()
+          ^^^^^^^^^^^^^^^^^^^^
+TypeError: DataManager.start() missing 1 required positional argument: 'pairs'
+2024-11-07 23:23:03,294 - root - ERROR - System initialization failed
